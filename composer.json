@@ -1,0 +1,14 @@
+{
+    "name": "himitsu/tugas1-blog",
+    "description": "Tugas1 Blog Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Ramadhan28",
+            "email": "Ramadhanalfatih28@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+
+|
+.utama {
+	width: 1200px;
+	margin: auto;
+	border: 1px solid gray;
+	background-color: white;
+	font-family: georgia;
+	padding: 10px;
+	background: #fff;
+}
+
+.container {
+	background: #fff;
+	width: 1200px;
+	margin: auto;
+	padding: 10px;
+}
+
+.kepala {
+
+}
+
+
+body {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+h1 {
+	margin: auto;
+	color: deepskyblue;
+	margin-bottom: 10px;
+	font-size: 50px;
+	font-family: georgia;
+}
+
+h2 {
+	margin: auto;
+	color: deepskyblue;
+	margin-bottom: 10px;
+	font-size: 25px;
+	font-family: georgia;
+}
+
+.menu  {
+	
+	padding: 10px;
+	background-color: deepskyblue;
+	color: white;
+	text-decoration: none;
+	top: 0px;
+	position: relative;
+	margin-bottom: 20px;
+	font-family: georgia;
+	text-align: center;
+}
+
+.menu a {
+	padding: 15px;
+	color:white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: white ;
+	color: green;
+
+}
+
+
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+.user_input {
+	background-color: indianred;
+	color: white;
+	font-family: georgia;
+}
+
+input[type=submit] {
+  padding: 8px 15px;
+  margin: 8px 0;
+   background-color: deepskyblue;
+  color: white;
+}
+
+input[type=date] {
+  padding: 8px 15px;
+  margin: 8px 0;
+   background-color: skyblue;
+   position: relative;
+   right: 2px;
+  color: white;
+}
+
+input[type=file] {
+  padding: 8px 15px;
+  margin: 8px 0;
+   background-color: skyblue;
+   position: relative;
+   right: 170px;
+  color: white;
+}
+
+input[type=text] {
+  padding: 1px 2px;
+  width: 200px;
+  height: 25px;
+  box-sizing: border-box;
+   background-color: white;
+  color: black;
+}
+
+table {
+	
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 1020px;
+	position: relative;
+	left: 110px;
+	border: 1px solid none;
+	border-collapse: collapse;
+	box-sizing : border-box;
+	text-align: center;
+	align-self: center;
+	background-color: seashell;
+	font-family: georgia;
+}
+
+table th {
+	text-align: center;
+	border: 1px solid lightgray;
+	padding: 10px;
+	margin: auto;
+	background-color: darkseagreen;
+	color: white;
+	font-family: georgia;
+}
+
+table td {
+	border: 1px solid lightskyblue;
+	position: relative;
+	padding:12px;
+
+}
+
+
+
+.footer {
+
+	padding: 10px;
+	background-color: deepskyblue;
+	bottom: 0px;
+	color: white;
+	position: sticky;
+	font-family: calibri;
+}
+
+
+
+.tmbl {
+	background-color: deepskyblue;
+	color: white;
+	font-family: georgia;
+}
+
+.tmbl_ker{
+	background-color: indianred;
+	color: white;
+	margin-left: 80px;
+	width: 100px;
+}
+
+
+.loginform  table {
+	background-color: lightgray;
+	position: relative;
+	margin: auto;
+	text-align: center;
+	width: 300px;
+	border: none;
+	border: 1px solid lightgray;
+}
+
+.login {
+	text-align: center;
+	background-color: salmon;
+	width: auto;
+}
+
+.formlogin_name {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: 10px;
+}
+
+.formlogin_pass {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+
+
+.kotaklogin {
+	text-align: center;
+	width: 300px;
+	margin: 80px auto;
+	padding: 30px 20px;
+	background-color: lightgray;
+}
+
+p {
+	font-family: Franklin Gothic Heavy;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	color: salmon;
+}
+
+.tombollogin{
+	background: salmon;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-bottom: 40px;
+}
+
+
